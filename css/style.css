@@ -22,4 +22,19 @@ section{
     margin-left: 345px;
 }
 
+.img1 , .icons1{
+    float: right;
+}
 
+
+.div3{
+    background-color: #39435c;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.color_div{
+    background-color: rgb(141, 141, 141);
+    height: 100%;
+    width: 100%;
+}
