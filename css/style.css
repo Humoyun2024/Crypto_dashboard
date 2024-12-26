@@ -34,7 +34,12 @@ section{
 }
 
 .color_div{
-    background-color: rgb(206, 206, 206);
+    background-color: rgb(241, 248, 255);
     height: 100%;
     width: 100%;
+}
+
+.container1{
+    max-width: 1500px;
+    margin: auto;
 }
