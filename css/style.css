@@ -43,3 +43,18 @@ section{
     max-width: 1500px;
     margin: auto;
 }
+
+.sec1 .row .col-2{
+    box-shadow: 0px 0px 36px -9px rgba(0,0,0,0.7);
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+#chart {
+  max-width: 650px;
+  margin: 35px auto;
+}
