@@ -44,7 +44,7 @@ section{
     margin: auto;
 }
 
-.sec1 .row .col-2{
+.sec1 .row .col-2 , .div5{
     box-shadow: 0px 0px 36px -9px rgba(0,0,0,0.7);
 }
 
@@ -69,3 +69,11 @@ body {
     box-shadow: 0px 0px 36px -9px rgba(0,0,0,0.7);  
 }
 
+.pad{
+    max-width: 350px;
+    width: 350px;
+}
+
+.sec{
+    margin-left: 379px;
+}
