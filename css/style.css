@@ -82,3 +82,11 @@ body {
     background-color: rgb(230, 230, 230);
     color: rgb(131, 131, 131);
 }
+
+footer{
+    margin-left: 250px;
+}
+
+.oxiri{
+    float: right;
+}
